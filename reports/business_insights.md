@@ -63,6 +63,51 @@ Potential opportunities include:
 - Examining repeat purchase behavior.
 - Developing retention strategies for
   customers with high spending potential.
+
+### Customer Repeat Purchase Analysis
+
+#### Business Question
+What percentage of customers placed
+more than one order?
+
+#### SQL Analysis Results
+
+- Total unique customers: 96,096
+- Repeat customers: 2,997
+- Repeat purchase rate: 3.12%
+- One-time customers: 93,099
+- One-time customer rate: 96.88%
+
+#### Key Business Insight
+
+The analysis revealed that only 3.12%
+of customers placed more than one order
+during the dataset's observation period.
+
+Approximately 96.88% of customers
+made only one purchase.
+
+This indicates that repeat purchasing
+was relatively uncommon during the
+period analyzed.
+
+#### Business Recommendations
+
+1. Investigate factors influencing
+   repeat purchasing behavior.
+
+2. Analyze customer satisfaction
+   and delivery experience.
+
+3. Examine whether repeat purchase
+   behavior varies by product category.
+
+4. Explore targeted customer retention
+   campaigns.
+
+5. Monitor repeat purchase rates
+   over longer observation periods.
+  
 ### 4. Product Insights
 - [Category/product finding once you analyze products]
 
