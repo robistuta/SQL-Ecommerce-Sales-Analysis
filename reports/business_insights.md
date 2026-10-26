@@ -23,6 +23,43 @@ Further analysis can help determine
 whether seasonality or promotional
 activities contributed to this result.
 
+### Average Order Value Analysis
+
+#### Business Question
+What is the average recorded payment
+value per order?
+
+#### SQL Analysis Result
+
+Average Order Value: R$ 160.99
+
+#### Business Insight
+
+The analysis revealed that the average
+recorded payment value per order was
+R$ 160.99.
+
+This metric provides a benchmark for
+understanding customer transaction values.
+
+The calculation includes recorded payments,
+which may contain freight charges.
+
+#### Business Recommendations
+
+1. Investigate product combinations
+   frequently purchased together.
+
+2. Analyze whether larger orders
+   are associated with particular
+   product categories.
+
+3. Explore opportunities for
+   cross-selling and product bundling.
+
+4. Monitor average order value
+   alongside customer retention.
+   
 ### 2. Geographic Insights
 - Top state by orders: [state] ([number] orders)
 - [Additional geographic insight]
