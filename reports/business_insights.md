@@ -216,7 +216,7 @@ within this category.
 ### 5. Product Insights
 - [Category/product finding once you analyze products]
 
-###6 Delivery Performance
+### 6 Delivery Performance
 
 - Delivered orders analyzed: 96,470
 - Late deliveries: 7,826
