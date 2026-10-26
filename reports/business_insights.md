@@ -30,3 +30,24 @@
 ## SQL Queries Used
 - See `sql/` folder for complete SQL analysis
 - See `results/` folder for exported data
+
+- ### Sales Performance
+
+The SQL analysis examined monthly order
+volumes and recorded payment values.
+
+Key findings:
+
+- Highest payment month: [2017-11]
+- Payment value: [R$1194882.8]
+- Total orders that month: [7544]
+
+Business Insight:
+
+The analysis identified the month with
+the highest transaction payment value.
+Further analysis can help determine
+whether seasonality or promotional
+activities contributed to this result.
+
+
