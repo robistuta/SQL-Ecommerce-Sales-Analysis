@@ -175,6 +175,44 @@ R$ 88.17 per unit.
 3. Examine profit margins for high-volume products.
 4. Explore cross-selling opportunities.
 
+### Product Category Performance Analysis
+
+#### Business Question
+Which product categories generate
+the highest sales?
+
+#### SQL Analysis Results
+
+- Top Category: Health & Beauty
+- Units Sold: 9,670
+- Total Product Sales: R$ 1,258,681.34
+- Average Sales per Unit: R$ 130.16
+
+#### Key Business Insight
+
+The Health & Beauty category generated
+the highest product sales value,
+reaching approximately R$ 1.26 million.
+
+A total of 9,670 units were sold,
+demonstrating strong customer demand
+within this category.
+
+#### Business Recommendations
+
+1. Monitor inventory levels for
+   popular Health & Beauty products.
+
+2. Investigate seasonal purchasing
+   patterns within the category.
+
+3. Analyze customer purchasing
+   behavior to identify opportunities
+   for cross-selling.
+
+4. Evaluate product profitability
+   before increasing investment
+   in the category.
 ### 5. Product Insights
 - [Category/product finding once you analyze products]
 
