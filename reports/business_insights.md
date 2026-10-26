@@ -30,28 +30,39 @@ activities contributed to this result.
 ### 3. Customer Behavior
 ### Customer Spending Analysis
 
-This analysis identified the 10 customers
-with the highest recorded payment values.
+SQL analysis was conducted to identify
+the highest-spending customers on the
+e-commerce platform.
 
-Key Findings:
+#### Key Findings
 
-- Highest customer spending: R$ [13664.08]
-- Number of orders: [1]
-- Top 10 customers identified using SQL.
+- Highest customer spending: R$ 13,664.08
+- Number of orders placed: 1
+- Analysis method: SQL JOINs, GROUP BY,
+  COUNT DISTINCT, and SUM.
 
-Business Insight:
+#### Business Insight
 
-Analyzing high-value customers helps
-the business understand purchasing
-behavior and identify opportunities
-for customer retention strategies.
+The highest-spending customer generated
+R$ 13,664.08 in recorded payments from
+a single order.
 
-Recommendation:
+This finding demonstrates that high-value
+transactions can contribute substantially
+to sales even without repeat purchases.
 
-Investigate whether high-spending
-customers are repeat buyers before
-developing targeted loyalty campaigns.
+#### Business Recommendation
 
+The company should investigate purchasing
+patterns among high-value customers.
+
+Potential opportunities include:
+
+- Identifying products associated with
+  high-value purchases.
+- Examining repeat purchase behavior.
+- Developing retention strategies for
+  customers with high spending potential.
 ### 4. Product Insights
 - [Category/product finding once you analyze products]
 
