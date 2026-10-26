@@ -216,6 +216,15 @@ within this category.
 ### 5. Product Insights
 - [Category/product finding once you analyze products]
 
+###6 Delivery Performance
+
+- Delivered orders analyzed: 96,470
+- Late deliveries: 7,826
+- Late delivery rate: 8.11%
+- On-time deliveries: 88,644
+- On-time delivery rate: 91.89%
+
+The analysis found that 8.11% of delivered orders arrived after their estimated delivery date. This identifies an opportunity to investigate delivery performance by location, carrier, or product category.
 ## Recommendations
 
 1. **Marketing**: [Your recommendation based on data]
