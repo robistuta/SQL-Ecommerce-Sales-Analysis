@@ -144,8 +144,38 @@ period analyzed.
 
 5. Monitor repeat purchase rates
    over longer observation periods.
-  
-### 4. Product Insights
+
+### 4. Product Performance
+## Product Performance Analysis
+
+### Business Question
+Which product has the highest sales volume?
+
+### SQL Analysis Results
+
+- Highest product sales volume: 488 units
+- Total product sales: R$ 43,025.56
+- Average selling price: R$ 88.17
+
+### Business Insight
+
+The best-selling product recorded 488 units
+sold, generating R$ 43,025.56 in sales.
+
+This indicates strong demand for the product
+during the period analyzed.
+
+The average selling price was approximately
+R$ 88.17 per unit.
+
+### Business Recommendations
+
+1. Monitor inventory levels for popular products.
+2. Investigate seasonal demand patterns.
+3. Examine profit margins for high-volume products.
+4. Explore cross-selling opportunities.
+
+### 5. Product Insights
 - [Category/product finding once you analyze products]
 
 ## Recommendations
