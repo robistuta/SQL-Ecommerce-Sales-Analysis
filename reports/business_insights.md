@@ -3,19 +3,17 @@
 ## Executive Summary
 [Write 2-3 sentences summarizing your main findings]
 
-## Key Findings
-
 ### 1. Sales Performance
 The SQL analysis examined monthly order
 volumes and recorded payment values.
 
-Key findings:
+## Key Findings
 
 - Highest payment month: [2017-11]
 - Payment value: [R$1194882.8]
 - Total orders that month: [7544]
 
-Business Insight:
+## Business Insight:
 
 The analysis identified the month with
 the highest transaction payment value.
