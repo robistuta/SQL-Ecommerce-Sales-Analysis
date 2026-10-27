@@ -98,6 +98,44 @@ directly caused the increase.
 5. Monitor delivery performance
    following high-demand events.
 
+### Black Friday vs. Average November Day
+
+#### SQL Analysis Results
+
+- Average Daily Payments (Other Days): R$ 35,023.54
+- Black Friday Payments: R$ 179,200.03
+- Percentage Increase: 411.66%
+- Black Friday Orders: 1,176
+
+#### Key Business Insight
+
+Black Friday generated approximately
+5.12 times the average daily payment
+value of other November days.
+
+Recorded payments were 411.66% higher
+than the average non-Black-Friday day.
+
+This demonstrates a strong concentration
+of purchasing activity during the
+Black Friday shopping event.
+
+#### Business Recommendations
+
+1. Prepare inventory for potential
+   demand increases during Black Friday.
+
+2. Evaluate marketing opportunities
+   around seasonal shopping events.
+
+3. Plan logistics capacity to accommodate
+   higher order volumes.
+
+4. Investigate which product categories
+   experienced the greatest demand.
+
+5. Compare Black Friday performance
+   across multiple years.
    
 ### 3. Customer Behavior
 ### Customer Spending Analysis
