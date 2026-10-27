@@ -136,6 +136,52 @@ Black Friday shopping event.
 
 5. Compare Black Friday performance
    across multiple years.
+
+### Black Friday Product Category Analysis
+
+#### Business Question
+
+Which product category generated the
+highest sales during Black Friday 2017?
+
+#### SQL Analysis Results
+
+- Date: November 24, 2017
+- Top Category: Bed, Bath & Table
+- Units Sold: 195
+- Total Product Sales: R$ 17,875.03
+- Average Sales per Unit: R$ 91.67
+
+#### Key Business Insight
+
+Bed, Bath & Table was the highest-grossing
+product category during Black Friday 2017.
+
+The category generated R$ 17,875.03
+from 195 items sold.
+
+Interestingly, Health & Beauty was the
+highest-grossing category overall,
+while Bed, Bath & Table led during
+Black Friday.
+
+This suggests that category performance
+may vary during major shopping events.
+
+#### Business Recommendations
+
+1. Examine product demand during
+   seasonal shopping events.
+
+2. Investigate whether Bed, Bath & Table
+   products experience increased demand
+   during promotional periods.
+
+3. Prepare inventory for categories
+   with historically high event-day sales.
+
+4. Compare Black Friday product sales
+   against regular shopping days.
    
 ### 3. Customer Behavior
 ### Customer Spending Analysis
