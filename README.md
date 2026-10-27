@@ -37,7 +37,7 @@ The analysis focuses on answering the following questions:
 - WHERE filtering
 - INNER JOIN and LEFT JOIN
 - GROUP BY
-- ORDER BY
+- ORDER BY 
 - Aggregate functions (SUM, COUNT, AVG)
 - CASE statements
 - Common Table Expressions (CTEs)
