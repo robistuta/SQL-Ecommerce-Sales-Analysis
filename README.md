@@ -309,3 +309,18 @@ Data Analytics Portfolio Project
 **Tools:** SQL | SQLite | Excel | GitHub
 
 **Dataset Credit:** Olist Brazilian E-Commerce Public Dataset
+
+##Links
+## Explore the Project
+
+### SQL Analysis
+[View SQL Queries](sql/)
+
+### Analysis Results
+[View Query Results](results/)
+
+### Business Insights
+[Read Business Insights Report](reports/business_insights.md)
+
+### Dataset
+[Download Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
