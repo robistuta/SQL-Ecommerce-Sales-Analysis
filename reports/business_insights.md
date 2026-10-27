@@ -80,6 +80,61 @@ Potential opportunities include:
 - Developing retention strategies for
   customers with high spending potential.
 
+  ### Black Friday Sales Analysis
+
+#### Business Question
+Did Black Friday contribute significantly
+to November 2017 sales performance?
+
+#### SQL Analysis Results
+
+- Black Friday Date: November 24, 2017
+- Black Friday Orders: 1,176
+- Black Friday Payments: R$ 179,200.03
+- November Total Orders: 7,544
+- November Total Payments: R$ 1,194,882.80
+
+#### Key Findings
+
+Black Friday accounted for:
+
+- 15.59% of November's orders.
+- 15.00% of November's recorded payments.
+
+November 24 recorded the highest
+daily payment value in November 2017.
+
+#### Business Insight
+
+Black Friday represented a significant
+portion of November's sales activity.
+
+The concentration of orders and payments
+on November 24 suggests that seasonal
+shopping events may influence customer
+purchasing behavior.
+
+However, additional analysis would be
+needed to establish whether promotions
+directly caused the increase.
+
+#### Business Recommendations
+
+1. Evaluate seasonal promotional
+   opportunities during major shopping events.
+
+2. Prepare inventory and logistics
+   for potential demand increases.
+
+3. Investigate the product categories
+   driving Black Friday purchases.
+
+4. Compare promotional periods with
+   normal sales periods.
+
+5. Monitor delivery performance
+   following high-demand events.
+
 ### Customer Repeat Purchase Analysis
 
 #### Business Question
