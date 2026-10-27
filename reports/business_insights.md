@@ -3,65 +3,46 @@
 ## Executive Summary
 [Write 2-3 sentences summarizing your main findings]
 
-### 1. Sales Performance
-The SQL analysis examined monthly order
-volumes and recorded payment values.
+## Monthly Sales Performance
 
-## Key Findings
+### Business Question
+Which month generated the highest
+recorded payment value?
 
-- Highest payment month: [2017-11]
-- Payment value: [R$1194882.8]
-- Total orders that month: [7544]
+### SQL Analysis Results
 
-## Business Insight:
+- Highest Sales Month: November 2017
+- Total Orders: 7,544
+- Total Payments: R$ 1,194,882.80
+- Average Payment per Order: R$ 158.39
 
-The analysis identified the month with
-the highest transaction payment value.
-Further analysis can help determine
-whether seasonality or promotional
-activities contributed to this result.
+### Key Business Insight
 
-### Average Order Value Analysis
+November 2017 recorded the highest
+monthly payment value, generating
+approximately R$ 1.19 million
+across 7,544 orders.
 
-#### Business Question
-What is the average recorded payment
-value per order?
+This represents a significant period
+of sales activity within the dataset.
 
-#### SQL Analysis Result
+### Business Recommendations
 
-Average Order Value: R$ 160.99
+1. Investigate factors contributing
+   to November's strong performance.
 
-#### Business Insight
+2. Examine whether seasonal events
+   influenced purchasing activity.
 
-The analysis revealed that the average
-recorded payment value per order was
-R$ 160.99.
+3. Compare November sales with
+   surrounding months.
 
-This metric provides a benchmark for
-understanding customer transaction values.
+4. Analyze product categories
+   driving November sales.
 
-The calculation includes recorded payments,
-which may contain freight charges.
-
-#### Business Recommendations
-
-1. Investigate product combinations
-   frequently purchased together.
-
-2. Analyze whether larger orders
-   are associated with particular
-   product categories.
-
-3. Explore opportunities for
-   cross-selling and product bundling.
-
-4. Monitor average order value
-   alongside customer retention.
+5. Explore opportunities to improve
+   performance during slower months.
    
-### 2. Geographic Insights
-- Top state by orders: [state] ([number] orders)
-- [Additional geographic insight]
-
 ### 3. Customer Behavior
 ### Customer Spending Analysis
 
