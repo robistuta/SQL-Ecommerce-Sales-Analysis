@@ -42,45 +42,8 @@ of sales activity within the dataset.
 
 5. Explore opportunities to improve
    performance during slower months.
-   
-### 3. Customer Behavior
-### Customer Spending Analysis
 
-SQL analysis was conducted to identify
-the highest-spending customers on the
-e-commerce platform.
-
-#### Key Findings
-
-- Highest customer spending: R$ 13,664.08
-- Number of orders placed: 1
-- Analysis method: SQL JOINs, GROUP BY,
-  COUNT DISTINCT, and SUM.
-
-#### Business Insight
-
-The highest-spending customer generated
-R$ 13,664.08 in recorded payments from
-a single order.
-
-This finding demonstrates that high-value
-transactions can contribute substantially
-to sales even without repeat purchases.
-
-#### Business Recommendation
-
-The company should investigate purchasing
-patterns among high-value customers.
-
-Potential opportunities include:
-
-- Identifying products associated with
-  high-value purchases.
-- Examining repeat purchase behavior.
-- Developing retention strategies for
-  customers with high spending potential.
-
-  ### Black Friday Sales Analysis
+### Black Friday Sales Analysis
 
 #### Business Question
 Did Black Friday contribute significantly
@@ -135,6 +98,45 @@ directly caused the increase.
 5. Monitor delivery performance
    following high-demand events.
 
+   
+### 3. Customer Behavior
+### Customer Spending Analysis
+
+SQL analysis was conducted to identify
+the highest-spending customers on the
+e-commerce platform.
+
+#### Key Findings
+
+- Highest customer spending: R$ 13,664.08
+- Number of orders placed: 1
+- Analysis method: SQL JOINs, GROUP BY,
+  COUNT DISTINCT, and SUM.
+
+#### Business Insight
+
+The highest-spending customer generated
+R$ 13,664.08 in recorded payments from
+a single order.
+
+This finding demonstrates that high-value
+transactions can contribute substantially
+to sales even without repeat purchases.
+
+#### Business Recommendation
+
+The company should investigate purchasing
+patterns among high-value customers.
+
+Potential opportunities include:
+
+- Identifying products associated with
+  high-value purchases.
+- Examining repeat purchase behavior.
+- Developing retention strategies for
+  customers with high spending potential.
+
+  
 ### Customer Repeat Purchase Analysis
 
 #### Business Question
